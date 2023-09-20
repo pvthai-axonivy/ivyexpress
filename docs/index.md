@@ -1,5 +1,3 @@
-# Axon Ivy Express
-
 Axon Ivy Express is an add-on module for Axon Ivy Portal. It enables you – as a business user – to create your own process applications and share them with your colleagues. These capabilities are also known as No-Code Application Platforms or Citizen Developer Platforms. Therefore, it is the perfect tool for you to digitize your processes and create standardization, reliability and traceability. Some of the key features of Axon Ivy Express are:
 
    * It is a No Coding Toolset, allowing business users without an IT background to create processes.
