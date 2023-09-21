@@ -5,7 +5,7 @@ Axon Ivy Express is an add-on module for Axon Ivy Portal. It enables you – as 
    * The Seamless Integration into Axon Ivy allows you to make use of standard features like email notifications, task delegation, etc.
    * The Powerful Toolset allows you to create processes, define different task types, set responsibilities and due dates and define user dialogs for each task.
 
-![express-workflow-properties](https://market.axonivy.com/market-cache/portal/portal-guide/11.2.0-m246.1/_images/navigate-to-axon-ivy-express.png)
+<img src="https://market.axonivy.com/market-cache/portal/portal-guide/11.2.0-m246.1/_images/navigate-to-axon-ivy-express.png" width="100%">
 
 ## Demo
 
