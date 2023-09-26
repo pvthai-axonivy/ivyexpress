@@ -21,7 +21,9 @@
 title: Axon Ivy Express
 email: thai.phanvan@axonactive.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Axon Ivy Express is an add-on module for Axon Ivy Portal.
+ Welcome to Axon Ivy Express documentation.
+show_portal_user_guide: true
+show_portal_developer_guide: true
 domain: pvthai-axonivy.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://pvthai-axonivy.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl:       # place folder name if the site is served in a subfolder
@@ -29,11 +31,11 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-#theme: architect
-remote_theme: pages-themes/architect@v0.2.0
+theme: jekyll-theme-cayman
+#remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

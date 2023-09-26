@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img { width: 100%; }
+
+#express-workflow-input-elements, #express-workflow-task-types {
+    text-align: center;
+}
+
+table {
+    display: table !important;
+}
