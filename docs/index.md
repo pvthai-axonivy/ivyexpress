@@ -15,6 +15,9 @@ You can reach Express by using the link `Processes` in the Portal menu.
 
 Below the heading **Processes**, you see the link `Create Express Workflow`. Below, you find the process category **Express Workflows** with a list of predefined processes.
 
+>**Important:**  Only users who have granted the role `EXPRESS_CREATE_WORKFLOW` can see and access the link `Create Express workflow`. To configure this permission, go to `Engine Cockpit`. In the
+security area, you will find this permission in group **PortalPermissions**
+
 ![start-link-for-axon-ivy-express](https://market.axonivy.com/market-cache/portal/portal-guide/11.1.0/_images/start-link-for-axon-ivy-express.png)
 
 ## **HowTo: Create an Express Workflow**
@@ -157,9 +160,9 @@ After you have completed an Express workflow, you can check its summary data by 
 
 >**Note:** If your process is running, you will only see the data of the current Express task on the `Summary` page
 
-## **Axon Express Management**
+## **Express Management**
 
-With Axon Express Management, an administrator can import/export Express workflows in JSON format. You find this feature in the **Admin Settings**.
+With Express Management, an administrator can import/export Express workflows in JSON format. You find this feature in the **Admin Settings**.
 
 ![express-management-tab](https://market.axonivy.com/market-cache/portal/portal-guide/11.1.0/_images/express-management-tab.png)
 
