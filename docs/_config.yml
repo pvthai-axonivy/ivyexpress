@@ -21,7 +21,7 @@
 title: Axon Ivy Express
 email: thai.phanvan@axonactive.com
 description: >- # this means to ignore newlines until "baseurl:"
- Welcome to Axon Ivy Express documentation.
+ So far, this document familiarized you with the Portal and explained: <br> What is the Express <br> How you can use Express in the Portal
 show_portal_user_guide: true
 show_portal_developer_guide: true
 domain: pvthai-axonivy.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com

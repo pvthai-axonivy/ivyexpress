@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-So far, this document familiarized you with the Portal and explained how you can use processes provided to you by your IT department. The following chapter takes you to the next level.
 
 **Axon Ivy Express** is a module of the Portal. It enables you -- as a business user -- to create your own process applications and share them with your colleagues. These capabilities are also known as No-Code Application Platforms or Citizen Developer Platforms. Therefore, it is the perfect tool for you to digitize your processes and create standardization, reliability and traceability. Some of the key features of Express are:
 
@@ -51,7 +50,7 @@ Below the heading **Processes**, you see the link `Create Express Workflow`. Bel
     2.  provide a descriptive name in `Task Name`
     3.  provide an optional description in `Task description`.
 
-12. For **One time** process type, the first process step defines the users or roles under `Able to start` who can start the process
+12. For *One time* process type, the first process step defines the users or roles under `Able to start` who can start the process
 
     ![express-able-to-start](https://market.axonivy.com/market-cache/portal/portal-guide/11.1.0/_images/express-able-to-start.png)
 
@@ -209,7 +208,9 @@ Start an ad hoc process by clicking on the menu icon at the top right in your ta
 
 ![adhoc-start](https://market.axonivy.com/market-cache/portal/portal-guide/11.1.0/_images/adhoc-start.png)
 
+<br>
 >**Important:** Save the data of your current task before you start the ad hoc process.
+<br>
 
 Then, define your ad hoc process.
 

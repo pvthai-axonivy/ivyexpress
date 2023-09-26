@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Axon Ivy Express
-description: Welcome to Axon Ivy Express documentation.
 ---
 
 # **Axon Ivy Express in the Portal**
