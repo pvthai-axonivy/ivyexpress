@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Axon Ivy Express
 ---
 
-# **Axon Ivy Express in the Portal**
+## **Axon Ivy Express in the Portal**
 
 The Portal and Projects using it should be deployed in different
 applications but in the same security context.
@@ -37,7 +36,7 @@ The templates offer features like top menu, application menu and user
 menu. It also contains start process links to default pages like Portal
 home, Portal task list, Portal case list etc..
 
-## **axonivy-express**
+## **AxonIvyExpress**
 
 **No Code Process Management**
 

@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Axon Ivy Express
+title: Axon Ivy Express | Documentation
+header_title: Axon Ivy Express
 email: thai.phanvan@axonactive.com
 description: >- # this means to ignore newlines until "baseurl:"
- So far, this document familiarized you with the Portal and explained: <br> What is the Express <br> How you can use Express in the Portal
+ This document provides an introduction to the Portal and explains the concept<br> of the Express and how it can be utilized within the Portal. It familiarizes you<br> with the Portal and gives you a clear understanding of what the Express is and<br> how you can use it to your advantage.
 show_portal_user_guide: true
 show_portal_developer_guide: true
 domain: pvthai-axonivy.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
