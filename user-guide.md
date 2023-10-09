@@ -87,12 +87,12 @@ layout: default
     ![express-workflow-dialog-editor](https://market.axonivy.com/market-cache/portal/portal-guide/11.1.0/_images/express-workflow-dialog-editor.png)
 
     <br>
-<div class="important-box">
-    <p class="important-title">Hint</p>
-    <p>
-    The results of all previous tasks are included in follow-on tasks in a read-only view, so that the user sees the whole history.
-    </p>
-</div>
+    <div class="important-box">
+        <p class="important-title">Hint</p>
+        <p>
+        The results of all previous tasks are included in follow-on tasks in a read-only view, so that the user sees the whole history.
+        </p>
+    </div>
 
     ### **Express Workflow input elements**
 
@@ -145,7 +145,11 @@ After you have completed an Express workflow, you can check its summary data by 
 
     ![express-business-summary](https://market.axonivy.com/market-cache/portal/portal-guide/11.1.0/_images/express-business-summary.png)
 
->**Note:** If your process is running, you will only see the data of the current Express task on the <code><strong class="code">Summary</strong></code> page
+    <div class="important-box">
+        <p class="important-title">Note</p>
+        <p>If your process is running, you will only see the data of the current Express task on the <code><strong class="code">Summary</strong></code> page
+        </p>
+    </div>
 
 ## **Express Management**
 
@@ -155,9 +159,7 @@ With Express Management, an administrator can import/export Express workflows in
 
 <div class="important-box">
     <p class="important-title">Note</p>
-    <p>
-To access this feature, you need to be granted the role <code><strong class="code">AXONIVY_PORTAL_ADMIN</strong></code>.
-    </p>
+    <p>To access this feature, you need to be granted the role <code><strong class="code">AXONIVY_PORTAL_ADMIN</strong></code>.</p>
 </div>
 
 ### **HowTo: Export an Express Process**
