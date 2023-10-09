@@ -11,13 +11,17 @@ So far, this document familiarized you with the Axon Ivy Portal and explained ho
    * supports all standard features such as email notifications, task delegation, etc.
    * features an importer tool to hand over your No-Code business processes to Low-Code or Pro-Code developers.
 
-You can reach Express by using the link `Processes` in the Portal menu.
+You can reach Express by using the link <code><strong class="code">Processes</strong></code> in the Portal menu.
 
 ![navigate-to-axon-ivy-express](https://market.axonivy.com/market-cache/portal/portal-guide/11.1.0/_images/navigate-to-axon-ivy-express.png)
 
-Below the heading **Processes**, you see the link `Create Express Workflow`. Below, you find the process category **Express Workflows** with a list of predefined processes.
+Below the heading **Processes**, you see the link <code><strong class="code">Create Express Workflow</strong></code>. Below, you find the process category **Express Workflows** with a list of predefined processes.
 
->**Important:**  Only users who have granted the role `EXPRESS_CREATE_WORKFLOW` can see and access the link `Create Express workflow`. To configure this permission, go to `Engine Cockpit`. In the
-security area, you will find this permission in group **PortalPermissions**
+<div class="important-box">
+    <p class="important-title">Important</p>
+    <p>
+    Only users who have granted the role <code><strong class="code">EXPRESS_CREATE_WORKFLOW</strong></code> can see and access the link <code><strong class="code">Create Express workflow</strong></code>. To configure this permission, go to <code><strong class="code">Engine Cockpit</strong></code>. In the security area, you will find this permission in group <code><strong class="code">PortalPermissions</strong></code>
+    </p>
+</div>
 
 ![start-link-for-axon-ivy-express](https://market.axonivy.com/market-cache/portal/portal-guide/11.1.0/_images/start-link-for-axon-ivy-express.png)

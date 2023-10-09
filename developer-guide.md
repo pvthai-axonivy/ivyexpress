@@ -28,7 +28,7 @@ AxonIvyExpress. You can use them in your own applications.
 
 **Contains portal specific UI components, templates and pages**
 
-The module `portal` provides a set of specific UI components that you
+The module **portal** provides a set of specific UI components that you
 need to use and administer (or manage) the portal, templates for
 developer and portal pages.
 

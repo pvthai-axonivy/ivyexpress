@@ -12,3 +12,30 @@ img { width: 100%; }
 table {
     display: table !important;
 }
+
+@mixin highlighted-box {
+    padding: 12px;
+    margin-bottom: 24px;
+}
+
+@mixin highlighted-box-title {
+    font-weight: 700;
+    display: block;
+    color: #fff;
+    padding: 6px 12px;
+    margin: -12px -12px 12px;
+}
+
+.important-box {    
+    background-color: #dbfaf4;
+    @include highlighted-box;
+}
+
+.important-title {
+    background: #1abc9c;
+    @include highlighted-box-title;
+}
+
+.code {
+    color: #D23636;
+}
